@@ -1,1 +1,3 @@
-//ainda será editado
+function mudaFoto(foto) {
+  document.getElementById("icone").src=foto;
+}
